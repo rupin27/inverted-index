@@ -34,14 +34,9 @@ $(APPBIN): $(OBJ) $(MOBJ)
 $(TESTBIN): $(TOBJ) $(OBJ)
 	$(CC) -o $@ $^ $(CFLAGS) $(XXLIBS)
 
-submission:
-	find . -name "*~" -exec rm -rf {} \;
-	zip -r submission src lib include
-
 
 .PHONY: clean
 
 clean:
 	rm -f $(ODIR)/*.o *~ core $(INCDIR)/*~
 	rm -f $(APPBIN) $(TESTBIN)
-	rm -f submission.zip
