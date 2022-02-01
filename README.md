@@ -27,7 +27,7 @@ foo2.txt
 
 <h2 id="output">Output</h2>
 
-<p>The inverter will output a string of all of the words from all of the inputs, in “alphabetical” order, followed by the document numbers in which they appear, in order. For example (note: your program must produce exactly this output):</p>
+<p>The inverter will output a string of all of the words from all of the inputs, in “alphabetical” order, followed by the document numbers in which they appear, in order. For example:</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>word: 0 1
 word1: 1
