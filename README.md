@@ -17,13 +17,12 @@ foo2.txt
 
 <h3 id="samp1txt">samp1.txt</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>this is a test. cool.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> this file contai5ns text
 </code></pre></div></div>
 
 <h3 id="samp2txt">samp2.txt</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>this is also a test.
-boring.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> no wa3y! this file also contai5ns text
 </code></pre></div></div>
 
 <h2 id="output">Output</h2>
